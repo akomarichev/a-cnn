@@ -16,9 +16,9 @@ We work on making our code available.
 ### Citation
 If you find our work useful in your research, please cite our work:
 
-	@InProceedings{komarichev2019acnn,
-	  title={A-CNN: Annularly Convolutional Neural Networks on Point Clouds},
-	  author={Komarichev, Artem and Zhong, Zichun and Hua, Jing},
-	  journal={arXiv preprint arXiv:1904.08017},
-	  year={2019}
-	}
+    @InProceedings{komarichev2019acnn,
+        title={A-CNN: Annularly Convolutional Neural Networks on Point Clouds},
+        author={Komarichev, Artem and Zhong, Zichun and Hua, Jing},
+        booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+        year={2019}
+    }
