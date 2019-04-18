@@ -1,7 +1,7 @@
 ## A-CNN: *Annularly Convolutional Neural Networks on Point Clouds*
 Created by <a href="https://github.com/artemkomarichev" target="_blank">Artem Komarichev</a>, <a href="http://www.cs.wayne.edu/zzhong/" target="_blank">Zichun Zhong</a>, <a href="http://www.cs.wayne.edu/~jinghua/" target="_blank">Jing Hua</a> from Department of Computer Science, Wayne State University.
 
-![teaser image](https://github.com/artemkomarichev/a-cnn/blob/master/pics/teaser.pdf)
+![teaser image](https://github.com/artemkomarichev/a-cnn/blob/master/pics/teaser.png)
 
 ### Introduction
 
