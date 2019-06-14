@@ -18,7 +18,7 @@ def placeholder_inputs(batch_size, num_point):
 NUM_CATEGORIES = 16
 
 def get_model(point_cloud, cls_label, normals, is_training, bn_decay=None):
-    """ Part segmentation PointNet, input is BxNx6 (XYZ NormalX NormalY NormalZ), output Bx50 """
+    """ Part segmentation A-CNN, input is points BxNx3 and normals BxNx3, output Bx50 """
     batch_size = point_cloud.get_shape()[0].value
     num_point = point_cloud.get_shape()[1].value
     end_points = {}
